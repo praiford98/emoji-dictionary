@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		404190AF1EFD65AD006E5CE9 /* Emoji.swift in Sources */ = {isa = PBXBuildFile; fileRef = 404190AE1EFD65AD006E5CE9 /* Emoji.swift */; };
 		40AB1AC61EFAD874000CD7AA /* DefinitionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40AB1AC51EFAD874000CD7AA /* DefinitionViewController.swift */; };
 		40DBAC5C1EFA3A8C0043FA84 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40DBAC5B1EFA3A8C0043FA84 /* AppDelegate.swift */; };
 		40DBAC5E1EFA3A8C0043FA84 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40DBAC5D1EFA3A8C0043FA84 /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		404190AE1EFD65AD006E5CE9 /* Emoji.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Emoji.swift; sourceTree = "<group>"; };
 		40AB1AC51EFAD874000CD7AA /* DefinitionViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DefinitionViewController.swift; sourceTree = "<group>"; };
 		40DBAC581EFA3A8C0043FA84 /* Emoji Dictionary.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Emoji Dictionary.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		40DBAC5B1EFA3A8C0043FA84 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -59,6 +61,7 @@
 				40DBAC5B1EFA3A8C0043FA84 /* AppDelegate.swift */,
 				40DBAC5D1EFA3A8C0043FA84 /* ViewController.swift */,
 				40AB1AC51EFAD874000CD7AA /* DefinitionViewController.swift */,
+				404190AE1EFD65AD006E5CE9 /* Emoji.swift */,
 				40DBAC5F1EFA3A8C0043FA84 /* Main.storyboard */,
 				40DBAC621EFA3A8C0043FA84 /* Assets.xcassets */,
 				40DBAC641EFA3A8C0043FA84 /* LaunchScreen.storyboard */,
@@ -141,6 +144,7 @@
 			files = (
 				40DBAC5E1EFA3A8C0043FA84 /* ViewController.swift in Sources */,
 				40AB1AC61EFAD874000CD7AA /* DefinitionViewController.swift in Sources */,
+				404190AF1EFD65AD006E5CE9 /* Emoji.swift in Sources */,
 				40DBAC5C1EFA3A8C0043FA84 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
